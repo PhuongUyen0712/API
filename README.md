@@ -57,3 +57,11 @@ Bên cạnh đó, mình suggest mọi người cài thêm nodemon, để khi mì
 
 ```npm install nodemon```
 
+## 3. git ignore
+
+Sau khi cài các module này, sẽ có một folder node_modules được create trong repo của mình. Nếu mọi người muốn push những thay đổi trên local lên git, thì sẽ push thêm folder node_modules. Điều này không cần thiết.
+
+Để khắc phục, mình sẽ tạo một file .gitignore
+
+![alt text](image.png)
+
