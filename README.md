@@ -5,7 +5,7 @@
 
 Ý kiến cá nhân của mình thì mọi người nên cài bản được nhiều người dùng sử dụng nhất hiện tại.
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## 2. Cài đặt NodeJS
 
@@ -15,7 +15,7 @@ Bước này khá đơn giản, mình cứ bấm Next hết nha. Hoặc nếu ai
 
 Có thể dùng CMD bằng cách vào Start, gõ CMD, chọn Command Prompt.
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 Gõ 
 ```tsx
@@ -27,7 +27,7 @@ npm -v
 ```
 Nếu thấy kết quả hiện như hình trên là mình đã cài đặt thành công NodeJS.
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 # Tạo project NodeJs
 
@@ -51,7 +51,7 @@ Install module express:
 
 Ngoài cài đặt module express, dòng lệnh trên sẽ lưu thông tin của module này vào file package.json.
 
-![alt text](image.png)
+![alt text](/images/image-4.png)
 
 Bên cạnh đó, mình suggest mọi người cài thêm nodemon, để khi mình có thay đổi gì, chỉ cần save lại là server sẽ tự động run lại.
 
