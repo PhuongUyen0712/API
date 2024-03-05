@@ -63,5 +63,5 @@ Sau khi cài các module này, sẽ có một folder node_modules được creat
 
 Để khắc phục, mình sẽ tạo một file .gitignore
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
